@@ -1,0 +1,7 @@
+C:\Users\19165\source\repos\TwitterTest\TwitterTest\bin\Debug\TwitterTest.exe.config
+C:\Users\19165\source\repos\TwitterTest\TwitterTest\bin\Debug\TwitterTest.exe
+C:\Users\19165\source\repos\TwitterTest\TwitterTest\bin\Debug\TwitterTest.pdb
+C:\Users\19165\source\repos\TwitterTest\TwitterTest\obj\Debug\TwitterTest.csprojAssemblyReference.cache
+C:\Users\19165\source\repos\TwitterTest\TwitterTest\obj\Debug\TwitterTest.csproj.CoreCompileInputs.cache
+C:\Users\19165\source\repos\TwitterTest\TwitterTest\obj\Debug\TwitterTest.exe
+C:\Users\19165\source\repos\TwitterTest\TwitterTest\obj\Debug\TwitterTest.pdb
